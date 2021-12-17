@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pickup
+  - Platform
+  - Amogus
   layers:
   - Default
   - TransparentFX
